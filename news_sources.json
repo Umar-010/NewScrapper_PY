@@ -1,0 +1,14 @@
+{
+  "sources": [
+    {
+      "name": "Süddeutsche Zeitung",
+      "url": "https://www.sueddeutsche.de",
+      "headline_selector": "h2"
+    },
+    {
+      "name": "Frankfurter Allgemeine Zeitung",
+      "url": "https://www.faz.net",
+      "headline_selector": "h3"
+    }
+  ]
+}
